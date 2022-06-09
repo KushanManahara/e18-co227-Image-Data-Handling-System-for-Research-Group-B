@@ -38,6 +38,10 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 .....
 
+## Solution Architecture
+![Sample Image](./images/arch.png)
+
+
 ## Links
 
 - [Project Repository]([https://github.com/cepdnaclk](https://github.com/cepdnaclk/e18-co227-Image-Data-Handling-System-for-Research-Group-B)/{{ page.repository-name }}){:target="_blank"}
